@@ -1,4 +1,4 @@
-
+package KotlinBasico
 fun main() { //fun -> bloco de ações
     val nome = "Izabella"
     println("Olá, o meu nome é $nome")
